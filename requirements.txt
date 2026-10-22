@@ -1,0 +1,1 @@
+# Streakly Planner uses only Python's standard library; no pip packages are required.
